@@ -1,8 +1,8 @@
 <html lang="pt-br">
-<h1 align="center"> Atividade Java sobre POO </h1>
+<h1 align="center"> Cooperativa Irmaõs Amapá </h1>
 
 <p align="center">
-classroom activity<br/>
+Classroom activity<br/>
 
 </p>
 
@@ -14,7 +14,7 @@ classroom activity<br/>
 <br>
 
 <p align="center">
-  <img alt="Imagens" src="assets/frame.PNG" width="100%">
+  <img alt="Imagens" src="assets/preview.PNG" width="100%">
 </p>
 
 ## <p id="tec">Technologies</p>
@@ -27,7 +27,7 @@ Desenvolvido com:
 
 ## <p id="pro">Projeto</p>
 
-Atividade de sala de aula de um programa que receba dados e faça a análise sobre o aluno, no caso a percentagem de acertos ja que o conceito o usuário informa.
+Atividade de sala de aula de um programa que simula uma cooperativa de crédito. Esse programa não possui interface gráfica. O Objetivo foi consolidar o conceito de classes em Java.
 
 
 ---
