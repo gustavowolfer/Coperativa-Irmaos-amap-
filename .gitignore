@@ -1,0 +1,17 @@
+﻿# Pastas do NetBeans
+nbproject/.private/
+nbproject/private/
+build/
+dist/
+nbdist/
+nbproject/project.properties
+
+# Arquivos compilados
+*.jar
+*.war
+*.ear
+
+# Sistema
+Thumbs.db
+Desktop.ini
+.DS_Store
