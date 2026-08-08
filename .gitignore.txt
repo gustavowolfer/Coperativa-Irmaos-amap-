@@ -1,0 +1,11 @@
+nbproject/private/
+build/
+nbproject/project.properties
+dist/
+nbdist/
+*.jar
+*.war
+*.ear
+Thumbs.db
+Desktop.ini
+.DS_Store
